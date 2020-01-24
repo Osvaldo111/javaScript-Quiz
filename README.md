@@ -10,3 +10,5 @@ These gifs shows some of the functionalities of the application.
 ![alt text](/presentationResources/quiz.gif)
 
 ## Link
+
+[Go to the Site](https://osvaldo111.github.io/javaScript-Quiz/View/index.html)
